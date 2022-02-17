@@ -25,7 +25,7 @@ from xaugmentation import aug_batch
 # Parameters
 no_cv_splits = 10
 batch_size = 16
-no_of_epochs = 1
+no_of_epochs = 200
 early_stopping = True
 patience = 50
 seed = 101 #Random seed
